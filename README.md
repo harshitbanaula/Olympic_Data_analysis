@@ -22,8 +22,3 @@ This project analyzes 120 years of Olympic history using data from Kaggle. It ex
 - Seaborn
 - Jupyter Notebook
 
-## How to Run
-
-1. Install required libraries:
-   ```bash
-   pip install pandas matplotlib seaborn
